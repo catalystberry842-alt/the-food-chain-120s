@@ -8,9 +8,8 @@ A complete **1920×1080 @ 30 FPS** full-color animated wildlife short film (`foo
 
 ## Watch & Download
 
-- **Direct Full-HD MP4 Download (1920×1080 @ 30 FPS, Stereo AAC):** [Download `food_chain_animation.mp4`](https://raw.githubusercontent.com/catalystberry842-alt/the-food-chain-120s/main/food_chain_animation.mp4)
-- **GitHub File Preview Page:** [`food_chain_animation.mp4`](https://github.com/catalystberry842-alt/the-food-chain-120s/blob/main/food_chain_animation.mp4)
-- **Archival High-Bitrate Master (CRF 16, 121 MB):** [Release `v1.0.0`](https://github.com/catalystberry842-alt/the-food-chain-120s/releases/tag/v1.0.0)
+- **Direct Full-HD MP4 Download (1920×1080 @ 30 FPS, 53 MB, Stereo AAC):** [Download `food_chain_animation.mp4`](https://raw.githubusercontent.com/catalystberry842-alt/the-food-chain-120s/main/food_chain_animation.mp4)
+- **GitHub File Page:** [`food_chain_animation.mp4`](https://github.com/catalystberry842-alt/the-food-chain-120s/blob/main/food_chain_animation.mp4)
 
 ### Individual Synchronized Scene Previews (720p @ 30 FPS)
 1. **Scene 1 — Life Begins (`00:00–00:22`):** [`scene1_life_begins_preview.mp4`](previews/scene1_life_begins_preview.mp4)
