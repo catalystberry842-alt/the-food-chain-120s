@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+output/segments/
+output/food_chain_animation.mp4
+*.tmp.mp4
+*.raw.wav

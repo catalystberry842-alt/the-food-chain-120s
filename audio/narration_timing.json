@@ -1,0 +1,83 @@
+{
+  "voice": "en-GB-RyanNeural",
+  "total_duration": 124.0,
+  "cues": [
+    {
+      "scene_id": 1,
+      "key": "scene1",
+      "start_time": 4.8,
+      "text": "Every food chain begins with a producer. In this grassland, the producer is grass. Through photosynthesis, grass uses sunlight to make its own food.",
+      "rate": "-8%",
+      "pitch": "-3Hz",
+      "duration": 11.362086167800454,
+      "end_time": 16.162086167800453,
+      "wav_path": "/home/antigravity/food_chain_project/audio/narration_scene1.wav"
+    },
+    {
+      "scene_id": 2,
+      "key": "scene2",
+      "start_time": 25.8,
+      "text": "The grasshopper feeds on the grass. It depends on the producer for energy. This makes it a primary consumer.",
+      "rate": "-8%",
+      "pitch": "-3Hz",
+      "duration": 8.110226757369615,
+      "end_time": 33.910226757369614,
+      "wav_path": "/home/antigravity/food_chain_project/audio/narration_scene2.wav"
+    },
+    {
+      "scene_id": 3,
+      "key": "scene3",
+      "start_time": 44.8,
+      "text": "Next comes the frog. It hunts the grasshopper for food. The frog is a secondary consumer because it eats the primary consumer.",
+      "rate": "-8%",
+      "pitch": "-3Hz",
+      "duration": 8.915895691609977,
+      "end_time": 53.71589569160997,
+      "wav_path": "/home/antigravity/food_chain_project/audio/narration_scene3.wav"
+    },
+    {
+      "scene_id": 4,
+      "key": "scene4",
+      "start_time": 65.0,
+      "text": "The snake feeds on the frog. This makes it a tertiary consumer. Energy continues to move from one organism to another.",
+      "rate": "-9%",
+      "pitch": "-4Hz",
+      "duration": 8.912925170068027,
+      "end_time": 73.91292517006802,
+      "wav_path": "/home/antigravity/food_chain_project/audio/narration_scene4.wav"
+    },
+    {
+      "scene_id": 5,
+      "key": "scene5",
+      "start_time": 86.0,
+      "text": "Finally, the hawk catches the snake. It is the top predator in this food chain. It receives energy from the organisms that came before it.",
+      "rate": "-8%",
+      "pitch": "-3Hz",
+      "duration": 9.76201814058957,
+      "end_time": 95.76201814058957,
+      "wav_path": "/home/antigravity/food_chain_project/audio/narration_scene5.wav"
+    },
+    {
+      "scene_id": 6,
+      "key": "scene6_main",
+      "start_time": 108.0,
+      "text": "This is a food chain. It shows how energy moves from one living organism to another. Every organism plays an important role in the balance of nature.",
+      "rate": "-9%",
+      "pitch": "-3Hz",
+      "duration": 10.380498866213152,
+      "end_time": 118.38049886621314,
+      "wav_path": "/home/antigravity/food_chain_project/audio/narration_scene6_main.wav"
+    },
+    {
+      "scene_id": 6,
+      "key": "scene6_closing",
+      "start_time": 119.23,
+      "text": "Every living thing is connected.",
+      "rate": "-13%",
+      "pitch": "-4Hz",
+      "duration": 1.8663945578231294,
+      "end_time": 121.09639455782313,
+      "wav_path": "/home/antigravity/food_chain_project/audio/narration_scene6_closing.wav"
+    }
+  ]
+}
